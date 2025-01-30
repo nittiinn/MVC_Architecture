@@ -1,0 +1,12 @@
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Infrastructure\bin\Debug\net8.0\NewMVCApplication.Infrastructure.deps.json
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Infrastructure\bin\Debug\net8.0\NewMVCApplication.Infrastructure.dll
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Infrastructure\bin\Debug\net8.0\NewMVCApplication.Infrastructure.pdb
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Infrastructure\obj\Debug\net8.0\NewMVCApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Infrastructure\obj\Debug\net8.0\NewMVCApplication.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Infrastructure\obj\Debug\net8.0\NewMVCApplication.Infrastructure.AssemblyInfo.cs
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Infrastructure\obj\Debug\net8.0\NewMVCApplication.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Infrastructure\obj\Debug\net8.0\NewMVCApplication.Infrastructure.dll
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Infrastructure\obj\Debug\net8.0\refint\NewMVCApplication.Infrastructure.dll
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Infrastructure\obj\Debug\net8.0\NewMVCApplication.Infrastructure.pdb
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Infrastructure\obj\Debug\net8.0\ref\NewMVCApplication.Infrastructure.dll
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Infrastructure\obj\Debug\net8.0\NewMVCApplication.Infrastructure.csproj.AssemblyReference.cache

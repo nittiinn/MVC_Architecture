@@ -1,0 +1,12 @@
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Business\bin\Debug\net8.0\NewMVCApplication.Business.deps.json
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Business\bin\Debug\net8.0\NewMVCApplication.Business.dll
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Business\bin\Debug\net8.0\NewMVCApplication.Business.pdb
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Business\obj\Debug\net8.0\NewMVCApplication.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Business\obj\Debug\net8.0\NewMVCApplication.Business.AssemblyInfoInputs.cache
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Business\obj\Debug\net8.0\NewMVCApplication.Business.AssemblyInfo.cs
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Business\obj\Debug\net8.0\NewMVCApplication.Business.csproj.CoreCompileInputs.cache
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Business\obj\Debug\net8.0\NewMVCApplication.Business.dll
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Business\obj\Debug\net8.0\refint\NewMVCApplication.Business.dll
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Business\obj\Debug\net8.0\NewMVCApplication.Business.pdb
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Business\obj\Debug\net8.0\ref\NewMVCApplication.Business.dll
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Business\obj\Debug\net8.0\NewMVCApplication.Business.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Entities\bin\Debug\net8.0\NewMVCApplication.Entities.deps.json
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Entities\bin\Debug\net8.0\NewMVCApplication.Entities.dll
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Entities\bin\Debug\net8.0\NewMVCApplication.Entities.pdb
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Entities\obj\Debug\net8.0\NewMVCApplication.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Entities\obj\Debug\net8.0\NewMVCApplication.Entities.AssemblyInfoInputs.cache
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Entities\obj\Debug\net8.0\NewMVCApplication.Entities.AssemblyInfo.cs
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Entities\obj\Debug\net8.0\NewMVCApplication.Entities.csproj.CoreCompileInputs.cache
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Entities\obj\Debug\net8.0\NewMVCApplication.Entities.dll
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Entities\obj\Debug\net8.0\refint\NewMVCApplication.Entities.dll
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Entities\obj\Debug\net8.0\NewMVCApplication.Entities.pdb
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Entities\obj\Debug\net8.0\ref\NewMVCApplication.Entities.dll
+C:\Users\welcome\Desktop\NewMVCApplication\NewMVCApplication.Entities\obj\Debug\net8.0\NewMVCApplication.Entities.csproj.AssemblyReference.cache
